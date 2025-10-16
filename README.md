@@ -30,3 +30,5 @@ Python Installed <br/>
 VMs IP Addressses using command - ipconfig <br/>
 <img src="https://i.imgur.com/Ye0lhKs.png" height="80%" width="80%" alt="ipconfig"/>
 <br />
+<img src="https://i.imgur.com/Z0HT8qY.png" height="80%" width="80%" alt="ipconfig"/>
+<br />
