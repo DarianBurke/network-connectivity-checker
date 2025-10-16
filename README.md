@@ -46,3 +46,8 @@ Python Script <br/>
 <img src="https://i.imgur.com/X8nUdRr.png" height="80%" width="80%" alt="Python Installed"/>
 <br />
 
+
+<p align="center">
+Python Script Running <br/>
+<img src="https://i.imgur.com/1csazeh.png" height="80%" width="80%" alt="Python Running"/>
+<br />
