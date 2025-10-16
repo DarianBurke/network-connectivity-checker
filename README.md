@@ -26,6 +26,7 @@ Python Installed <br/>
 <img src="https://i.imgur.com/vyZQQNQ.png" height="80%" width="80%" alt="Python Installed"/>
 <br />
 
+
 <p align="center">
 VMs IP Addressses using command - ipconfig <br/>
 <img src="https://i.imgur.com/Ye0lhKs.png" height="80%" width="80%" alt="ipconfig"/>
@@ -33,10 +34,12 @@ VMs IP Addressses using command - ipconfig <br/>
 <img src="https://i.imgur.com/Z0HT8qY.png" height="80%" width="80%" alt="ipconfig"/>
 <br />
 
+
 <p align="center">
 Network_Checker file created <br/>
 <img src="https://i.imgur.com/qzwupst.png" height="80%" width="80%" alt="Network Checker folder created"/>
 <br />
+
 
 <p align="center">
 Python Script <br/>
