@@ -20,3 +20,8 @@ This project complements the Windows VM Networking Lab by showing how Python can
 - Understanding of local and external network testing  
 
 <h2>Program Walk-Through:</h2>
+
+<p align="center">
+Python Installed <br/>
+<img src="https://i.imgur.com/vyZQQNQ.png" height="80%" width="80%" alt="Python Installed"/>
+<br />
