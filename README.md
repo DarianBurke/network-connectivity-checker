@@ -25,3 +25,8 @@ This project complements the Windows VM Networking Lab by showing how Python can
 Python Installed <br/>
 <img src="https://i.imgur.com/vyZQQNQ.png" height="80%" width="80%" alt="Python Installed"/>
 <br />
+
+<p align="center">
+VMs IP Addressses using command - ipconfig <br/>
+<img src="https://i.imgur.com/Ye0lhKs.png" height="80%" width="80%" alt="ipconfig"/>
+<br />
